@@ -15,8 +15,6 @@
 - [About Me](#-about-me)
 - [Core Skills](#-core-skills)
 - [Stack](#-tech-stack)
-- [Statistics](#-github-stats)
-- [Currently Learning](#-currently-learning)
 - [Contact](#-contact)
 
 ---
@@ -82,33 +80,6 @@ My work spans **[industry/doman]**, where I use Python, SQL, and R to surface th
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
----
-
-## 📊 Statistics
-
-<div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=20YellowLemon&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20YellowLemon&layout=compact&theme=default&hide_border=true&langs_count=6" height="160" /> -->
-
-</div>
-
-<div align="center>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=20YellowLemon&theme=default&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📖 Currently Learning
-
-```
-Apache Spark        ███░░░░░░░░░░░  30%
-Prompt Engineering  ███████░░░░░░░  50%
-```
 
 ---
 
