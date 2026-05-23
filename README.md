@@ -4,7 +4,7 @@
 
 **Data Analyst**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=20BEFF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=20YellowLemon&color=20BEFF&style=flat-square&label=Profile+Views)
 
 </div>
 
