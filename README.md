@@ -1,6 +1,6 @@
 <div align="center">
 
-# Evanescence Naad
+# Evanescence P. Naad
 
 **Data Analyst**
 
