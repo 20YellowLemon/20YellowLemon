@@ -33,7 +33,7 @@ fun_fact: "Chess Player"
 
 I am a Data Analyst who believes that **the best insight is the one that gets acted on**. I work across the full analysis lifecycle — from wrangling messy raw data to building dashboards that make findings impossible to ignore.
 
-My work spans **[industry/doman]**, where I use Python, SQL, and R to surface the patterns that drive smarter decisions.
+My work spans the **Business, E-Commerce, and Finance** industries, where I use Python, SQL, and R to surface the patterns that drive smarter decisions.
 
 > *"Data is only valuable if it drives a strategic decision."*
 
